@@ -13,7 +13,8 @@ Main:
 Loop:
     sb $t2, BASE_ADRR($t0)
     addi $t0, $t0, 1
-    blt $to, $t1, Loop
+    slt $at, $t0, $t1
+    bne $at, $zero, Loop
 
 End:
 
