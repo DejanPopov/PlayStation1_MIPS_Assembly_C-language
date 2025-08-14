@@ -1,0 +1,17 @@
+/home/dpopov/Music/armips/build/CMakeFiles/armips.dir
+/home/dpopov/Music/armips/build/CMakeFiles/armips-bin.dir
+/home/dpopov/Music/armips/build/CMakeFiles/armipstests.dir
+/home/dpopov/Music/armips/build/CMakeFiles/test.dir
+/home/dpopov/Music/armips/build/CMakeFiles/edit_cache.dir
+/home/dpopov/Music/armips/build/CMakeFiles/rebuild_cache.dir
+/home/dpopov/Music/armips/build/CMakeFiles/list_install_components.dir
+/home/dpopov/Music/armips/build/CMakeFiles/install.dir
+/home/dpopov/Music/armips/build/CMakeFiles/install/local.dir
+/home/dpopov/Music/armips/build/CMakeFiles/install/strip.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/test.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/edit_cache.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/rebuild_cache.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/list_install_components.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/install.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/install/local.dir
+/home/dpopov/Music/armips/build/ext/filesystem/CMakeFiles/install/strip.dir

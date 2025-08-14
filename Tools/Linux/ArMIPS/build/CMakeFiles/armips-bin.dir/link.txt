@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/armips-bin.dir/Main/CommandLineInterface.cpp.o" "CMakeFiles/armips-bin.dir/Main/main.cpp.o" "CMakeFiles/armips-bin.dir/Main/Tests.cpp.o" -o armips  libarmips.a 
